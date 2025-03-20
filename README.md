@@ -5,17 +5,17 @@
 
 ### 👋 Hello World! I'm Raghavendra Prasath Sridhar
 
-🎓 Graduate Student – Master’s in Information Systems @ Northeastern University  
+🎓 Graduate Student – Currently pursuing Master of Science in Information Systems @ Northeastern University  
 💼 Former Data Engineer @ Cognizant | Building intelligent, scalable data solutions  
 🚀 Passionate about transforming data into actionable insights through engineering, analytics & AI
 
 ---
 
 ### 💡 About Me
-- 🔭 I’m interested in **Data Engineering**, **Business Intelligence**, and **Data Science**
-- 💻 Currently learning **Advanced SQL**, **Power BI**, **R for Time Series**, and **NLP for Financial Analytics**
-- 🧠 Looking to collaborate on **FinTech**, **AI-powered platforms**, and **Data Pipeline Automation**
-- 🌍 I’m based in **Boston, MA** and open to Co-Op & Internship opportunities in Summer/Fall 2025
+- 🔭 I’m interested in **Data Analytics**, **Data Engineering**, **Business Intelligence**, and **Data Science**
+- 💻 Currently learning **Advanced SQL**, **Python**, **R**, **Power BI**, and **Alteryx**
+- 🧠 Looking to collaborate on **Data Analytics**, **Business Intelligence**, **Data Engineering**, and **Data Science Projects**
+- 🌍 I’m based in **Boston, MA** and open to Co-Op & Internship opportunities in Summer/Fall 2025 
 
 ---
 
