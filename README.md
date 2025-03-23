@@ -29,6 +29,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -41,6 +42,10 @@
 
 - 💸 **AI-Powered Financial Analytics & Expense Tracking Platform**  
   NLP-driven classification, Snowflake-based storage, and predictive analytics for budgeting
+
+- 🧬 **[DNA Splice Junction Classification Using ML](https://github.com/raghavendraprasath/dna-splice-junction-classification-gene-sequences)**  
+  Python-R hybrid project using ML models, EDA in R, and feature engineering for classifying exon-intron junctions in DNA sequences
+
 
 ---
 
