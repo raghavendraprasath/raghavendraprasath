@@ -5,17 +5,18 @@
 
 ### 👋 Hello World! I'm Raghavendra Prasath Sridhar
 
-🎓 Graduate Student – Currently pursuing Master of Science in Information Systems @ Northeastern University  
-💼 Former Data Engineer @ Cognizant | Building intelligent, scalable data solutions  
-🚀 Passionate about transforming data into actionable insights through engineering, analytics & AI
+🎓 Graduate Student – Master of Science in Information Systems @ Northeastern University  
+💼 Incoming Software Engineer Co-Op @ Fidelity Investments | Former Data Engineer @ Cognizant  
+🚀 Passionate about transforming data into actionable insights through engineering, automation & AI
 
 ---
 
 ### 💡 About Me
-- 🔭 I’m interested in **Data Analytics**, **Data Engineering**, **Business Intelligence**, and **Data Science**
-- 💻 Currently learning **Advanced SQL**, **Python**, **R**, **Power BI**, and **Alteryx**
-- 🧠 Looking to collaborate on **Data Analytics**, **Business Intelligence**, **Data Engineering**, and **Data Science Projects**
-- 🌍 I’m based in **Boston, MA** and open to Co-Op & Internship opportunities in Summer/Fall 2025 
+- 🔭 I’m passionate about **Data Engineering**, **Automation**, **Cloud Computing**, and **Digital Transformation**
+- 💼 Excited to join **Fidelity Investments** as a **Software Engineer Co-Op** (Summer–Fall 2025), working on scalable data solutions
+- 💻 Continuously upskilling in **Python**, **SQL**, **AWS**, **Power BI**, **R**, and **Alteryx**
+- 🧠 Looking to collaborate on impactful projects in **Data Infrastructure**, **Business Intelligence**, and **AI-Driven Engineering**
+- 🌍 Based in **Boston, MA**, focused on building systems that make data accessible, insightful, and actionable
 
 ---
 
@@ -46,6 +47,11 @@
 - 🧬 **[DNA Splice Junction Classification Using ML](https://github.com/raghavendraprasath/dna-splice-junction-classification-gene-sequences)**  
   Python-R hybrid project using ML models, EDA in R, and feature engineering for classifying exon-intron junctions in DNA sequences
 
+- 🧪 **[Deep Learning for Protein Sequence Modeling](https://github.com/raghavendraprasath/deep-protein-modeling-progen-prottrans)**  
+  Replicates ProGen & ProtTrans papers using transformer models for protein generation, embedding visualizations & downstream evaluations
+
+- 🧠 **[Monte Carlo Tree Search Game AI](https://github.com/raghavendraprasath/MCTSProject)**  
+  Java-based AI for Tic Tac Toe & 2048 using MCTS algorithm with GUI, performance benchmarking, and tree exploration logic
 
 ---
 
